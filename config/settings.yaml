@@ -1,0 +1,5 @@
+download_dir: "/home/NAS/homes/ycchen-10014/moenv_air/downloads"
+extract_dir: "/home/NAS/homes/ycchen-10014/moenv_air/raw"
+parquet_dir: "/home/NAS/homes/ycchen-10014/moenv_air/parquet_files"
+duckdb_file: "/home/NAS/homes/ycchen-10014/moenv_air/moenv_temperature.duckdb"
+view_name: "moenv"
