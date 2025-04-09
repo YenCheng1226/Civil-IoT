@@ -24,8 +24,7 @@ default_config = {
 
 def load_config(config_path: str) -> dict:
     """
-    load cofig from .yaml,
-    if not exit, return default_config
+    load cofig from .yaml, if not exit, return default_config
     """
     try:
         with open(config_path, "r") as file:
