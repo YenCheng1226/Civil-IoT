@@ -7,7 +7,7 @@ import yaml
 # from etl.transform import transform_data
 # from storage.parquet_writer import write_parquet
 # from storage.duckdb_manager import create_duckdb_view, query_month_data
-from fetcher.filefetcher import (
+from civiliot.fetcher.file_fetcher import (
     FileFetcher,
 )
 
